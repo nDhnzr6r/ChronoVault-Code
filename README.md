@@ -93,4 +93,4 @@ SHA256(盐值 + UNIX时间戳)
 
 ## 📜 开源协议
 
-本项目采用 [MIT License](LICENSE)
+本项目采用MIT协议
